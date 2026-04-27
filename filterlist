@@ -1,9 +1,9 @@
 [uBlock Origin]
 ! Title Digital Red Panda filterlist
-/fast-connect.*\.js/
-/sentry.*\.js/
+||discord*/*/fast-connect.*\.js*
+||discord*/*/sentry.*\.js*
 ||api.spotify.com/v*/me/player*
-||status.discord.com/api/v*/scheduled-maintenances/upcoming\.json
+||status.discord.com/api/v*/scheduled-maintenances/upcoming\.json*
 ||discord.com/api/v*/users/@me/mfa/webauthn/credentials
 ||discord.com/api/v*/users/@me/collectibles-marketing*
 ||discord.com/assets/version.stable.json*
