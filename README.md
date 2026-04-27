@@ -2,4 +2,4 @@
 A simple personal uBlock Origin filter list to combat tracking.
 
 # Who is it for
-Me of course, though anyone is welcome to use it.
+Me of course, though anyone is welcomed to use it.
